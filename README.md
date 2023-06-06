@@ -31,7 +31,7 @@ Step 3: YELP API
 
 
 ## Results
-![Review count versus rating relationship](images/Review count versus rating relationship.jpg)
+![Review count versus rating relationship]([images/Review count versus rating relationship.jpg](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/blob/main/images/Review%20count%20versus%20rating%20relationship.jpg?raw=true))
 
 
 ## Challenges 
