@@ -31,7 +31,8 @@ Step 3: YELP API
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+![Review count versus rating relationship](images/Review count versus rating relationship.jpg)
+
 
 ## Challenges 
 (discuss challenges you faced in the project)
