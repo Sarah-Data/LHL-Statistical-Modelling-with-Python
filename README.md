@@ -6,7 +6,7 @@ Transform data
 EDA
 Visualization
 Statistical Modelling
-![image](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/2beb56df-59ab-4350-8cff-f001f15af044)
+
 
 
 ## Process
