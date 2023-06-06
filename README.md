@@ -31,11 +31,42 @@ Step 3: YELP API
 
 
 ## Results
+
+![Combined Daraframe info](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/4e0c56de-f50c-40e4-9dec-3fb13fef23c5)
+
 ![Review count versus rating relationship](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/blob/main/images/Review%20count%20versus%20rating%20relationship.jpg?raw=true)
 
+![Florida avenue POI Counts](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/59142a9e-3bb3-438e-9ddd-22e100f2fccc)
+
+![Aviation avenue POI Counts](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/004e47f6-1e25-408c-98f1-2328cdf7f87b)
+
+![City Hall](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/08b7238f-78f8-4b27-8c3c-b27da25c33bc)
+
+## Model Building
+
+The R-squared and Adjusted R-squared values measure the goodness of fit of the regression model. 
+
+A value of 1.000 suggests that the model explains all the variation in the dependent variable, which may indicate overfitting??? Few observations??
+
+A p-value more than the chosen significance level - 0.05 suggests that the predictor variables – review count, rating,coordinates latlon has no  significant effect on the dependent variable.
+![image](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/06668ee0-bea8-41a1-bf4d-ba895a409c62)
+
+![image](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/60a6b157-e4b0-49bf-be5f-c0f4367d18ac)
+
+![OLS Regression](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/blob/main/images/Model%20Building%20-%20OLS%20Regression.png?raw=true)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+1. Poor API documentation
+
+2. Issues with creating environmental variables
+
+3. Iterating over different dataframe structures in the json file
 
 ## Future Goals
-(what would you do if you had more time?)
+1. Increase observations
+ 
+2. De-categorize the POI for better granular insights
+
+3. Classification Model
+
+
