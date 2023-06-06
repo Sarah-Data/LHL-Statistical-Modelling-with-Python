@@ -1,11 +1,15 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-Pull data from 3 API’s
-Transform data
-EDA
-Visualization
-Statistical Modelling
+1. Pull data from 3 API’s
+
+2. Transform data
+ 
+3. EDA
+ 
+4. Visualization
+ 
+5. Statistical Modelling
 
 
 
