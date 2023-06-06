@@ -49,11 +49,12 @@ The R-squared and Adjusted R-squared values measure the goodness of fit of the r
 A value of 1.000 suggests that the model explains all the variation in the dependent variable, which may indicate overfitting??? Few observations??
 
 A p-value more than the chosen significance level - 0.05 suggests that the predictor variables – review count, rating,coordinates latlon has no  significant effect on the dependent variable.
-![image](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/06668ee0-bea8-41a1-bf4d-ba895a409c62)
-
-![image](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/60a6b157-e4b0-49bf-be5f-c0f4367d18ac)
 
 ![OLS Regression](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/blob/main/images/Model%20Building%20-%20OLS%20Regression.png?raw=true)
+
+## Backward Selection
+![OLS Regression-Backward Selection ](https://github.com/Sarah-Data/LHL-Statistical-Modelling-with-Python/assets/128204536/b98cba91-5d32-48c8-847a-1ed0f3906cab)
+
 
 ## Challenges 
 1. Poor API documentation
